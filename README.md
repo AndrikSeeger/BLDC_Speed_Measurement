@@ -64,7 +64,7 @@ These pins are configured as `INPUT_PULLUP` and are assumed to go LOW when activ
 
 ## License
 
-This project is open-source and available for any use. Contributions and improvements are welcome.
+This project is open-source and available for any use within the MIT-License. Contributions and improvements are welcome.
 
 ---
 
