@@ -1,4 +1,4 @@
-# Efficient Measurement of Rotational Motor Speed
+# Efficient Measurement of Rotational Motor Speed 
 
 This ultra-efficient and interrupt-based implementation measures the rotation speed (RPM) and direction of a brushless DC (BLDC) motor using only the built-in Hall effect sensors — **no additional hardware is required**. The system is implemented on a standard Arduino-compatible board and provides clean, high-speed serial output for live monitoring or logging.
 
